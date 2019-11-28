@@ -21,6 +21,9 @@
     "eslint-plugin-node": "^10.0.0"
   },
   "dependencies": {
-    "express": "^4.17.1"
+    "csv-parse": "^4.8.2",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "fs-extra": "^8.1.0"
   }
 }
