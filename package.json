@@ -1,0 +1,26 @@
+{
+  "name": "sample-nodejs",
+  "version": "1.0.0",
+  "description": "Node.jsのサンプルコード",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tahomatx/sample-nodejs.git"
+  },
+  "author": "Terai Kenji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tahomatx/sample-nodejs/issues"
+  },
+  "homepage": "https://github.com/tahomatx/sample-nodejs#readme",
+  "devDependencies": {
+    "eslint": "^6.7.1",
+    "eslint-plugin-node": "^10.0.0"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
